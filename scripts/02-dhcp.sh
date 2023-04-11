@@ -36,7 +36,9 @@
 # 	sudo dhclient -v -r enp0s3 (Dynamic Host Configuration Protocol Client)
 # 	sudo dhclient -v enp0s3 (Dynamic Host Configuration Protocol Client)
 # 	sudo cat /var/lib/dhcp/dhclient.leases (DHCP client lease database)
-#
+
+#   "Minha placa de rede wifi wlxd03745eca95a"
+
 # Windows Powershell: 
 #	getmac
 #	ipconfig /all
